@@ -1,0 +1,48 @@
+*{
+  font-weight: bold; 
+  text-shadow: 3px 3px 3px #836FFF;
+ }
+
+body {
+  font-family: 'Matrix-3D',matrix3d;
+  color: #00FFFF;
+  background-image: url('https://img5.goodfon.com/wallpaper/nbig/5/9e/maska-neon-svet-chiornyi-fon-neon-black.jpg');
+  background-color: #000000;
+  background-position: right;
+  background-repeat: no-repeat;
+}
+
+.container {
+  text-align: center;
+  padding: 20px;
+  height: 100vh;
+}
+
+.header {
+  margin-top: 5em;
+  font-size: 35px;
+}
+
+.page-subtitle {
+  margin-top: 1em;
+  font-size: 20px;
+  margin-top: 5px;
+}
+
+.botao:hover {
+    background: #CCBBFF;
+    box-shadow: inset 2px 2px 2px rgba(0, 0, 0, 0.2);
+    text-shadow: none;
+}
+
+.botao {
+    font-size: 1.5em;
+    background: #000000;
+    border: 0;
+    border-radius: 5px;
+    margin-top: 1em;
+    color: #00FFFF;
+    padding: 0.2em 0.6em;    
+    cursor: pointer;
+}
+
